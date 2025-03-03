@@ -11,7 +11,8 @@ Atlantis API + horrible key system (15 executions per key), altho cool UI
 2. Unzip CometV2.zip.
 3. Start Roblox Bloxstrap.
 4. Run CometApp.exe.
-5. Enjoy.
+5. Go into the "Profile" section and click "Login"
+6. Enjoy.
 
 # Credits
 ??? - Making this executor. </br>
